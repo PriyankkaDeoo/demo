@@ -1,1 +1,10 @@
-new file named name.txt
+Hello i am priyanka deo
+I am Software developer by profession.
+
+I like to read
+I like to teach technical subjects to kids.
+
+Adding few more line again
+
+tried stash ,stash pop and stash clear
+
